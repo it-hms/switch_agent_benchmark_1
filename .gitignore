@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+finetune/cli_data/
+finetune/results_*.json
